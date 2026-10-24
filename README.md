@@ -12,6 +12,7 @@ Credit and Fixed Income Trader with six years of experience in the Brazilian fin
 ## Credentials
 
 - CFA Charterholder
+- CGA, ANBIMA Fund Manager Certification (Certificação de Gestores ANBIMA)
 - MBA in Financial Engineering, Escola Politécnica da USP (Poli-USP)
 
 ## Repositories
